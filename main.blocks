@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="%Sm)Z+jY.}j6)`DacuU," x="20" y="20"></block><block type="device_forever" id="Z{g%Qd_qsrnT,I]eI5_z" x="225" y="20"></block><block type="device_button_event" id="7%HDWi;nqQOXUsVq{S03" x="-8" y="236"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="dJ?cHcbpS2oExGx|UfVI"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_play_note" id="/`PbG;j/XM.q$rUORS!3"><value name="note"><shadow type="device_note" id="6[y5F?Ct)Eu*_4?DgOzG"><field name="note">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="ZY:LiJV@%_hD:JnbI+sR"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_rest" id="I*9iPu#G*SEP@:~]i6N3"><value name="duration"><shadow type="device_beat" id="*tSO7Pm(e!kr3`In!_tZ"><field name="fraction">BeatFraction.Whole</field></shadow></value></block></next></block></next></block></statement></block><block type="device_button_event" id="]q^7)I_zADwNzdORAtuD" x="424" y="228"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="Usk`5ToR@Jrt8LSbs%5N"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # # # # # 
+        . . . . .
+        `</field><next><block type="device_play_note" id="eD~-M[Hv0j8cejrtG8TQ"><value name="note"><shadow type="device_note" id="xc+Q`3GfL%bs|fUx{Tm$"><field name="note">392</field></shadow></value><value name="duration"><shadow type="device_beat" id="`4i):,:d#2[]i=0yyo[%"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_rest" id="D3@`o-=mUqZ~G/wq8fG_"><value name="duration"><shadow type="device_beat" id="?_omMyj!{]vNnlP8Hb5r"><field name="fraction">BeatFraction.Whole</field></shadow></value></block></next></block></next></block></statement></block><block type="device_play_note" id="_i86Y]0Ta[*C{e!J0-vC" disabled="true" x="152" y="797"><value name="note"><shadow type="device_note" id="e-6+}sT#9U]ueh_:vJ(!" disabled="true"><field name="note">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="S/`AVZ{C;-r7(?p!`8wP" disabled="true"><field name="fraction">BeatFraction.Whole</field></shadow></value></block></xml>
